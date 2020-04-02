@@ -1,0 +1,6 @@
+Kandriychyk Maksym 10 9 2002 3 3 3 3 3
+Burda Bohdan 11 1 2000 3 3 4 3 5
+Konotop Ivan 9 9 2004 2 3 3 2 3
+Melnyk Taras 19 1 1999 3 5 5 5 4
+Chetin Sergiy 14 10 2002 2 3 2 2 2
+Antonov Anton 21 01 2003 2 4 3 2 5
